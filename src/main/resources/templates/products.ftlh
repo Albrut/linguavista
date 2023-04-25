@@ -8,7 +8,7 @@
     <title>KURSACH SDADIM</title>
 </head>
 <body>
-<h1>NIHUYA</h1>
+<h1>Sdadim infa sotka</h1>
 
 <#list products as product>
 <div>
